@@ -113,6 +113,11 @@
     display: none;
   }
 }
+@media (min-width: 768px) and (max-width: 1157.98px) {
+  .header-address-link {
+    letter-spacing: 0.04em;
+  }
+}
 @media (min-width: 1158px) {
   .logo-header {
     margin-right: 76px;
